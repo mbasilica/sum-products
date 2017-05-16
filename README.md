@@ -1,2 +1,3 @@
 # sum-products
-Sum of C number of products given N number of values
+Example using Java 8 Lambda expression
+- Sum of C number of products given N number of values
